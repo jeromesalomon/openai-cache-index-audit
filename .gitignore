@@ -1,0 +1,6 @@
+__pycache__/
+*.csv
+raw/
+.env
+openai-cache-index-report*.md
+report*.md
