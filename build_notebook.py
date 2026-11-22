@@ -20,7 +20,7 @@ def code(text, hidden=False):
 
 cells = [
     md("""
-# OpenAI cache & index checker
+# OpenAI cache & index audit
 
 Find out which pages of your site OpenAI holds in its **search index** and in its **page cache**, and how old each copy is.
 

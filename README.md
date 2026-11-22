@@ -1,4 +1,4 @@
-# OpenAI cache & index checker
+# OpenAI cache & index audit
 
 Find out which pages of your site OpenAI holds in its **web search index** and in its **page cache**, and how old each copy is. The check runs through the OpenAI API in cache-only mode, so it **does not trigger any visit** from ChatGPT-User or OAI-SearchBot on your site.
 
