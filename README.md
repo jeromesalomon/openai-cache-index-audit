@@ -2,7 +2,7 @@
 
 Find out which pages of your site OpenAI holds in its **web search index** and in its **page cache**, and how old each copy is. The check runs through the OpenAI API in cache-only mode, so it **does not trigger any visit** from ChatGPT-User or OAI-SearchBot on your site.
 
-Companion resource to my article on ChatGPT-User, OpenAI's cache and index: *[link to the article]*.
+Companion resource to my article [ChatGPT Index and Cache: The New Stories Your Server Logs Tell](https://jerome-salomon.bcsbl.fr/ai-search-blog/chatgpt-index-cache/). Step-by-step method: [How to Audit Your Site in ChatGPT](https://jerome-salomon.bcsbl.fr/resources/chatgpt-index-cache-audit/).
 
 ## Why two checks?
 
