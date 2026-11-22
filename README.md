@@ -113,7 +113,7 @@ The agent runs the script, reads the report and explains it. If you give it your
 
 [`openai_cache_index_checker.ipynb`](openai_cache_index_checker.ipynb) runs the same analysis in Google Colab: add your OpenAI API key to Colab's Secrets (`OPENAI_API_KEY`), paste your sitemap, run the cells.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hSb1UQegPVT67KpcQJX7-h3qSBOKZsa6)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeromesalomon/openai-cache-index-audit/blob/main/openai_cache_index_checker.ipynb)
 
 The notebook embeds `check.py` unchanged. After editing the script, rebuild it with `python3 build_notebook.py`.
 
